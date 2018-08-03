@@ -1,0 +1,600 @@
+2018/06/21 14:00:12  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/21 14:00:12  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/21 14:00:25  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/21 14:00:25  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/21 14:00:25  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/21 14:00:25  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/21 14:00:25  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/21 14:00:25  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/21 14:00:27  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/21 14:00:27  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/21 14:00:32  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/21 14:00:32  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/21 14:00:32  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:00:32  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:00:33  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="manufacturer"] locatorType: CSS
+2018/06/21 14:00:48  - Locators - INFO: pass
+2018/06/21 14:00:48  - Locators - INFO: 3 CUBEtest3 CUBE
+2018/06/21 14:01:18  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:01:18  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:01:23  - Locators - INFO: First plus element found: add locatorType: link
+2018/06/21 14:01:43  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:01:43  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:01:48  - Locators - INFO: second plus element found: addlocator: link
+2018/06/21 14:02:08  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:02:08  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:02:45  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/21 14:02:58  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/21 14:02:59  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/21 14:02:59  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/21 14:02:59  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/21 14:02:59  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/21 14:02:59  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/21 14:03:00  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/21 14:03:00  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/21 14:03:05  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/21 14:03:05  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/21 14:03:05  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:03:05  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:03:05  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="manufacturer"] locatorType: CSS
+2018/06/21 14:03:20  - Locators - INFO: pass
+2018/06/21 14:03:20  - Locators - INFO: 3 CUBEtest3 CUBE
+2018/06/21 14:03:50  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:03:50  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:03:55  - Locators - INFO: First plus element found: add locatorType: link
+2018/06/21 14:04:16  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:04:16  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:04:21  - Locators - INFO: second plus element found: addlocator: link
+2018/06/21 14:04:22  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:04:22  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:05:49  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/21 14:06:07  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/21 14:06:08  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/21 14:06:08  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/21 14:06:08  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/21 14:06:08  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/21 14:06:08  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/21 14:06:09  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/21 14:06:10  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/21 14:06:15  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/21 14:06:15  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/21 14:06:15  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:06:15  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:06:15  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="manufacturer"] locatorType: CSS
+2018/06/21 14:06:30  - Locators - INFO: pass
+2018/06/21 14:06:30  - Locators - INFO: 3 CUBEtest3 CUBE
+2018/06/21 14:07:01  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:07:01  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:07:06  - Locators - INFO: First plus element found: add locatorType: link
+2018/06/21 14:07:26  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:07:26  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:07:31  - Locators - INFO: second plus element found: addlocator: link
+2018/06/21 14:07:51  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:07:51  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:07:56  - Locators - INFO: Third plus element found: addlocator: link
+2018/06/21 14:08:26  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/21 14:08:38  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/21 14:08:38  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/21 14:08:38  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/21 14:08:38  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/21 14:08:38  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/21 14:08:38  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/21 14:08:40  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/21 14:08:40  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/21 14:08:45  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/21 14:08:45  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/21 14:08:45  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:08:45  - Locators - INFO: Element Found with locator: [ng-reflect-name="manufacturer"] and  locatorType: css
+2018/06/21 14:08:45  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="manufacturer"] locatorType: CSS
+2018/06/21 14:09:00  - Locators - INFO: pass
+2018/06/21 14:09:00  - Locators - INFO: 3 CUBEtest3 CUBE
+2018/06/21 14:09:31  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:09:31  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:09:36  - Locators - INFO: First plus element found: add locatorType: link
+2018/06/21 14:09:56  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:09:56  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:10:01  - Locators - INFO: second plus element found: addlocator: link
+2018/06/21 14:10:21  - Locators - INFO: Element not found with locator: add and  locatorType: link
+2018/06/21 14:10:21  - Locators - INFO: Cannot click on the element with locator: add locatorType: link
+2018/06/21 14:10:26  - Locators - INFO: Third plus element found: addlocator: link
+2018/06/22 11:29:40  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/22 11:29:58  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:29:58  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:29:59  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:29:59  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:29:59  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:29:59  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:30:00  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:30:00  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:31:29  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/22 11:31:42  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:31:42  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:31:42  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:31:42  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:31:42  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:31:43  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:31:44  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:31:44  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:31:48  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 11:31:48  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 11:38:04  - ValidLogin - INFO: ------------------------START--------------------------------------
+2018/06/22 11:38:19  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:38:19  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:38:19  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:38:19  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:38:19  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:38:19  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:38:20  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:38:20  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:38:26  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 11:38:27  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 11:41:33  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:41:33  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:41:33  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:41:33  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:41:33  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:41:33  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:41:34  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:41:34  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:41:39  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 11:41:39  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 11:53:53  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 11:53:53  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 11:54:06  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:54:06  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:54:06  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:54:06  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:54:06  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:54:06  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:54:07  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:54:07  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:54:12  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 11:54:12  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 11:58:48  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 11:58:48  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 11:58:59  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 11:58:59  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 11:58:59  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 11:58:59  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 11:58:59  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 11:58:59  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 11:59:01  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 11:59:01  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 11:59:06  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 11:59:06  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 11:59:52  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 12:00:05  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 12:00:05  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 12:00:05  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 12:00:05  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 12:00:05  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 12:00:05  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 12:00:06  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 12:00:06  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 12:00:12  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 12:00:12  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 12:02:01  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 12:02:12  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 12:02:13  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 12:02:13  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 12:02:13  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 12:02:13  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 12:02:13  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 12:02:14  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 12:02:14  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 12:02:19  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 12:02:20  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 12:03:04  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 12:03:16  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 12:03:16  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 12:03:16  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 12:03:16  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 12:03:16  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 12:03:16  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 12:03:17  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 12:03:18  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 12:03:23  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 12:03:23  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+-------------------------------START--------------------------------------
+Element Found with locator: username and  locatorType: id
+Sent data on element with locator: username locatorType: id
+Element Found with locator: password and  locatorType: id
+Sent data on element with locator: password locatorType: id
+Element Found with locator: mat-button-wrapper and  locatorType: class
+Clicked on element with locator: mat-button-wrapper locatorType: class
+Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+-------------------------------START--------------------------------------
+Element Found with locator: username and  locatorType: id
+Sent data on element with locator: username locatorType: id
+Element Found with locator: password and  locatorType: id
+Sent data on element with locator: password locatorType: id
+Element Found with locator: mat-button-wrapper and  locatorType: class
+Clicked on element with locator: mat-button-wrapper locatorType: class
+Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+-------------------------------START--------------------------------------
+Element Found with locator: username and  locatorType: id
+Sent data on element with locator: username locatorType: id
+Element Found with locator: password and  locatorType: id
+Sent data on element with locator: password locatorType: id
+Element Found with locator: mat-button-wrapper and  locatorType: class
+Clicked on element with locator: mat-button-wrapper locatorType: class
+Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+Element not found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+Cannot send data on the element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+-------------------------------START--------------------------------------
+Element Found with locator: username and  locatorType: id
+Sent data on element with locator: username locatorType: id
+Element Found with locator: password and  locatorType: id
+Sent data on element with locator: password locatorType: id
+Element Found with locator: mat-button-wrapper and  locatorType: class
+Clicked on element with locator: mat-button-wrapper locatorType: class
+Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+-------------------------------START--------------------------------------
+Element Found with locator: username and  locatorType: id
+Sent data on element with locator: username locatorType: id
+Element Found with locator: password and  locatorType: id
+Sent data on element with locator: password locatorType: id
+Element Found with locator: mat-button-wrapper and  locatorType: class
+Clicked on element with locator: mat-button-wrapper locatorType: class
+Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 12:26:42  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 12:26:53  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 12:26:53  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 12:26:53  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 12:26:54  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 12:26:54  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 12:26:54  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 12:26:55  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 12:26:55  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 12:26:59  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 12:26:59  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/22 12:35:06  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/22 12:35:18  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/22 12:35:18  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/22 12:35:18  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/22 12:35:18  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/22 12:35:18  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/22 12:35:18  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/22 12:35:19  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/22 12:35:19  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/22 12:35:25  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/22 12:35:25  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/25 12:35:19  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/25 12:35:33  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/25 12:35:33  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/25 12:35:33  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/25 12:35:33  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/25 12:35:33  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/25 12:35:33  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/25 12:35:34  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/25 12:35:34  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/25 12:35:43  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/25 12:35:43  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/25 12:36:23  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/25 12:36:34  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/25 12:36:34  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/25 12:36:34  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/25 12:36:34  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/25 12:36:34  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/25 12:36:34  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/25 12:36:35  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/25 12:36:35  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/25 12:36:43  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/25 12:36:43  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/26 14:53:31  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/26 14:55:37  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/26 14:55:38  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/26 14:55:38  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/26 14:55:38  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/26 14:55:38  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/26 14:55:38  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/26 14:55:39  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/26 14:55:39  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/26 14:55:43  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/26 14:55:44  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/26 16:10:47  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/26 16:11:03  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/26 16:11:03  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/26 16:11:03  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/26 16:11:03  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/26 16:11:03  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/26 16:11:03  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/26 16:11:04  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/26 16:11:04  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/26 16:11:09  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/26 16:11:09  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/27 15:55:52  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 15:56:23  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/06/27 15:56:23  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/06/27 15:56:43  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/06/27 15:56:43  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/06/27 15:57:04  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 15:57:04  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/06/27 15:57:24  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 15:57:24  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 15:57:57  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 15:58:26  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/06/27 15:58:26  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/06/27 15:58:46  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/06/27 15:58:46  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/06/27 15:59:06  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 15:59:06  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/06/27 15:59:26  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 15:59:26  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 16:02:36  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 16:03:03  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/06/27 16:03:03  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/06/27 16:03:23  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/06/27 16:03:23  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/06/27 16:03:43  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 16:03:43  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/06/27 16:04:03  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 16:04:03  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 16:04:23  - Locators - INFO: Element not found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/27 16:04:23  - Locators - INFO: Cannot send data on the element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/27 16:12:19  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 16:12:50  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/06/27 16:12:50  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/06/27 16:13:10  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/06/27 16:13:10  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/06/27 16:13:30  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 16:13:30  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/06/27 16:13:50  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 16:13:50  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 16:14:10  - Locators - INFO: Element not found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/27 16:14:10  - Locators - INFO: Cannot send data on the element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/27 16:58:12  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 16:58:21  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/27 16:58:21  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/27 16:58:21  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/27 16:58:21  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/27 16:58:21  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 16:58:21  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/27 16:58:22  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 16:58:22  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 16:58:27  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/27 16:58:27  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/27 17:00:06  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 17:00:15  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/27 17:00:15  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/27 17:00:15  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/27 17:00:15  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/27 17:00:15  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 17:00:15  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/27 17:00:16  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 17:00:16  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 17:00:21  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/27 17:00:21  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/06/27 17:01:03  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/06/27 17:01:12  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/06/27 17:01:12  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/06/27 17:01:12  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/06/27 17:01:12  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/06/27 17:01:12  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/06/27 17:01:12  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/06/27 17:01:13  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/06/27 17:01:14  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/06/27 17:01:18  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/06/27 17:01:18  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/07/02 15:15:10  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/02 15:15:22  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/07/02 15:15:22  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/07/02 15:15:22  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/02 15:15:22  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/02 15:15:22  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/07/02 15:15:22  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/07/02 15:15:23  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/02 15:15:24  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/02 15:15:29  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/07/02 15:15:29  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/07/04 16:28:08  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/04 16:28:28  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/07/04 16:28:28  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/07/04 16:28:28  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/04 16:28:28  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/04 16:28:29  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/07/04 16:28:29  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/07/04 16:28:30  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/04 16:28:30  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/04 16:29:22  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/04 16:29:34  - Locators - INFO: Element Found with locator: username and  locatorType: id
+2018/07/04 16:29:34  - Locators - INFO: Sent data on element with locator: username locatorType: id
+2018/07/04 16:29:34  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/04 16:29:34  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/04 16:29:34  - Locators - INFO: Element Found with locator: mat-button-wrapper and  locatorType: class
+2018/07/04 16:29:34  - Locators - INFO: Clicked on element with locator: mat-button-wrapper locatorType: class
+2018/07/04 16:29:35  - Locators - INFO: Element Found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/04 16:29:35  - Locators - INFO: Clicked on element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/04 16:29:42  - Locators - INFO: Element Found with locator: [ng-reflect-name="ucode"] and  locatorType: css
+2018/07/04 16:29:42  - Locators - INFO: Sent data on element with locator: [ng-reflect-name="ucode"] locatorType: CSS
+2018/07/16 13:05:07  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:05:42  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/07/16 13:05:42  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/07/16 13:05:51  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:05:51  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:05:55  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:06:50  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:07:24  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/07/16 13:07:24  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/07/16 13:07:44  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:07:44  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:08:04  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/07/16 13:08:04  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/07/16 13:08:24  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/16 13:08:24  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/16 13:08:44  - Locators - INFO: Element not found with locator: email and  locatorType: id
+2018/07/16 13:08:44  - Locators - INFO: Cannot send data on the element with locator: email locatorType: id
+2018/07/16 13:09:04  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:09:04  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:09:04  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 13:09:04  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 13:09:24  - Locators - INFO: Element not found with locator: dropdown and  locatorType: class
+2018/07/16 13:09:24  - Locators - INFO: Cannot click on the element with locator: dropdown locatorType: class
+2018/07/16 13:09:44  - Locators - INFO: Element not found with locator: dashboard-link and  locatorType: css
+2018/07/16 13:09:44  - Locators - INFO: Cannot click on the element with locator: dashboard-link locatorType: CSS
+2018/07/16 13:10:05  - Locators - INFO: Element not found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 13:10:05  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 13:10:25  - Locators - INFO: Element not found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 13:10:25  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 13:10:45  - Locators - INFO: Element not found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 13:10:45  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Wait"] locatorType: CSS
+2018/07/16 13:19:15  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:19:46  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/07/16 13:19:46  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/07/16 13:20:06  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:20:06  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:20:26  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/07/16 13:20:26  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/07/16 13:20:30  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/16 13:20:30  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/16 13:20:44  - ValidLogin - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:21:16  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/07/16 13:21:16  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/07/16 13:21:21  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:21:21  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:22:01  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:22:32  - Locators - INFO: Element not found with locator: username and  locatorType: id
+2018/07/16 13:22:32  - Locators - INFO: Cannot send data on the element with locator: username locatorType: id
+2018/07/16 13:22:52  - Locators - INFO: Element not found with locator: password and  locatorType: id
+2018/07/16 13:22:52  - Locators - INFO: Cannot send data on the element with locator: password locatorType: id
+2018/07/16 13:23:12  - Locators - INFO: Element not found with locator: mat-button-wrapper and  locatorType: class
+2018/07/16 13:23:12  - Locators - INFO: Cannot click on the element with locator: mat-button-wrapper locatorType: class
+2018/07/16 13:23:32  - Locators - INFO: Element not found with locator: [ng-reflect-router-link="/user-level-1/"] and  locatorType: css
+2018/07/16 13:23:32  - Locators - INFO: Cannot click on the element with locator: [ng-reflect-router-link="/user-level-1/"] locatorType: CSS
+2018/07/16 13:24:18  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:25:30  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:25:42  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 13:25:42  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 13:25:42  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 13:25:42  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 13:25:42  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 13:25:43  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 13:25:43  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 13:25:43  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 13:26:03  - Locators - INFO: Element not found with locator: dropdown and  locatorType: class
+2018/07/16 13:26:03  - Locators - INFO: Cannot click on the element with locator: dropdown locatorType: class
+2018/07/16 13:26:23  - Locators - INFO: Element not found with locator: dashboard-link and  locatorType: css
+2018/07/16 13:26:23  - Locators - INFO: Cannot click on the element with locator: dashboard-link locatorType: CSS
+2018/07/16 13:26:30  - Locators - INFO: Element not found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 13:26:30  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 13:27:01  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:27:14  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 13:27:14  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 13:27:14  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 13:27:14  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 13:27:14  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 13:27:14  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 13:27:14  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 13:27:14  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 13:27:34  - Locators - INFO: Element not found with locator: dropdown and  locatorType: class
+2018/07/16 13:27:34  - Locators - INFO: Cannot click on the element with locator: dropdown locatorType: class
+2018/07/16 13:27:38  - Locators - INFO: Element not found with locator: dashboard-link and  locatorType: css
+2018/07/16 13:27:38  - Locators - INFO: Cannot click on the element with locator: dashboard-link locatorType: CSS
+2018/07/16 13:28:04  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 13:28:17  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 13:28:17  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 13:28:17  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 13:28:17  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 13:28:17  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 13:28:17  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 13:28:17  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 13:28:17  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 13:28:24  - Locators - INFO: Element Found with locator: dropdown and  locatorType: class
+2018/07/16 13:28:24  - Locators - INFO: Clicked on element with locator: dropdown locatorType: class
+2018/07/16 13:28:44  - Locators - INFO: Element not found with locator: dashboard-link and  locatorType: css
+2018/07/16 13:28:44  - Locators - INFO: Cannot click on the element with locator: dashboard-link locatorType: CSS
+2018/07/16 13:29:04  - Locators - INFO: Element not found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 13:29:04  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 13:29:24  - Locators - INFO: Element not found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 13:29:24  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 13:29:44  - Locators - INFO: Element not found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 13:29:44  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Wait"] locatorType: CSS
+2018/07/16 14:45:48  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 14:46:01  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 14:46:02  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 14:46:02  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 14:46:02  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 14:46:02  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 14:46:02  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 14:46:02  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 14:46:02  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 14:46:08  - Locators - INFO: Element Found with locator: dropdown and  locatorType: class
+2018/07/16 14:46:08  - Locators - INFO: Clicked on element with locator: dropdown locatorType: class
+2018/07/16 14:46:30  - Locators - INFO: Element not found with locator: dashboard-link and  locatorType: css
+2018/07/16 14:46:30  - Locators - INFO: Cannot click on the element with locator: dashboard-link locatorType: CSS
+2018/07/16 14:46:52  - Locators - INFO: Element not found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 14:46:52  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 14:47:14  - Locators - INFO: Element not found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 14:47:14  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 14:47:31  - Locators - INFO: Element not found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 14:47:31  - Locators - INFO: Cannot click on the element with locator: [aria-controls="Wait"] locatorType: CSS
+2018/07/16 14:47:53  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 14:48:05  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 14:48:05  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 14:48:05  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 14:48:05  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 14:48:05  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 14:48:05  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 14:48:06  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 14:48:06  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 14:48:12  - Locators - INFO: Element Found with locator: dropdown and  locatorType: class
+2018/07/16 14:48:12  - Locators - INFO: Clicked on element with locator: dropdown locatorType: class
+2018/07/16 14:48:14  - Locators - INFO: Element Found with locator: dashboard-link and  locatorType: class
+2018/07/16 14:48:14  - Locators - INFO: Clicked on element with locator: dashboard-link locatorType: class
+2018/07/16 14:48:16  - Locators - INFO: Element Found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 14:48:16  - Locators - INFO: Clicked on element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 14:48:18  - Locators - INFO: Element Found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 14:48:18  - Locators - INFO: Clicked on element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 14:48:18  - Locators - INFO: Element Found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 14:48:19  - Locators - INFO: Clicked on element with locator: [aria-controls="Wait"] locatorType: CSS
+2018/07/16 14:48:41  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 14:48:52  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 14:48:53  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 14:48:53  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 14:48:53  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 14:48:53  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 14:48:53  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 14:48:53  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 14:48:53  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 14:49:00  - Locators - INFO: Element Found with locator: dropdown and  locatorType: class
+2018/07/16 14:49:00  - Locators - INFO: Clicked on element with locator: dropdown locatorType: class
+2018/07/16 14:49:02  - Locators - INFO: Element Found with locator: dashboard-link and  locatorType: class
+2018/07/16 14:49:02  - Locators - INFO: Clicked on element with locator: dashboard-link locatorType: class
+2018/07/16 14:49:04  - Locators - INFO: Element Found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 14:49:04  - Locators - INFO: Clicked on element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 14:49:06  - Locators - INFO: Element Found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 14:49:06  - Locators - INFO: Clicked on element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 14:49:06  - Locators - INFO: Element Found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 14:49:06  - Locators - INFO: Clicked on element with locator: [aria-controls="Wait"] locatorType: CSS
+2018/07/16 14:49:53  - testacc - INFO: -------------------------------START--------------------------------------
+2018/07/16 14:50:06  - Locators - INFO: Element Found with locator: login-host and  locatorType: class
+2018/07/16 14:50:06  - Locators - INFO: Clicked on element with locator: login-host locatorType: class
+2018/07/16 14:50:06  - Locators - INFO: Element Found with locator: email and  locatorType: id
+2018/07/16 14:50:06  - Locators - INFO: Sent data on element with locator: email locatorType: id
+2018/07/16 14:50:06  - Locators - INFO: Element Found with locator: password and  locatorType: id
+2018/07/16 14:50:07  - Locators - INFO: Sent data on element with locator: password locatorType: id
+2018/07/16 14:50:07  - Locators - INFO: Element Found with locator: btn-success and  locatorType: class
+2018/07/16 14:50:07  - Locators - INFO: Clicked on element with locator: btn-success locatorType: class
+2018/07/16 14:50:13  - Locators - INFO: Element Found with locator: dropdown and  locatorType: class
+2018/07/16 14:50:13  - Locators - INFO: Clicked on element with locator: dropdown locatorType: class
+2018/07/16 14:50:15  - Locators - INFO: Element Found with locator: dashboard-link and  locatorType: class
+2018/07/16 14:50:15  - Locators - INFO: Clicked on element with locator: dashboard-link locatorType: class
+2018/07/16 14:50:18  - Locators - INFO: Element Found with locator: [aria-controls="Active"] and  locatorType: css
+2018/07/16 14:50:18  - Locators - INFO: Clicked on element with locator: [aria-controls="Active"] locatorType: CSS
+2018/07/16 14:50:20  - Locators - INFO: Element Found with locator: [aria-controls="Deactivated"] and  locatorType: css
+2018/07/16 14:50:20  - Locators - INFO: Clicked on element with locator: [aria-controls="Deactivated"] locatorType: CSS
+2018/07/16 14:50:20  - Locators - INFO: Element Found with locator: [aria-controls="Wait"] and  locatorType: css
+2018/07/16 14:50:20  - Locators - INFO: Clicked on element with locator: [aria-controls="Wait"] locatorType: CSS

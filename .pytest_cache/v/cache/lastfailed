@@ -1,0 +1,7 @@
+{
+  "Page/LoginPage.py": true,
+  "Script/ValidLogin.py": true,
+  "script/ValidLogin.py": true,
+  "script/testdropdown.py::TestUM::test_answer": true,
+  "script/valid_login.py::ValidLogin::test_valid_login": true
+}
